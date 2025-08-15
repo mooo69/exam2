@@ -10,7 +10,7 @@ namespace examSys
         public ans(int i, string t)
         {
             id = i;
-            text = t;
+            text = t; 
         }
         public override string ToString()
         {
